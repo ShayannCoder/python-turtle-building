@@ -4,7 +4,7 @@ A local building in Sulaymaniyah rebuilt with the Turtle library in Python.
 
 #  🚀 Features
 
-* **Moving Color Pattern on windows:** the program prompts the user to select one of two different patterns, then the user is prompted to enter two colors, the two chosen colors will be animated onto the windows horizontally or vertically depending on the pattern chosen
+* **Animated Color Pattern on windows:** the program prompts the user to select one of two different patterns, then the user is prompted to enter two colors, the two chosen colors will be animated onto the windows horizontally or vertically depending on the pattern chosen
 
 # A picture of the original building
 ![building](https://github.com/user-attachments/assets/9ef03f8b-cc52-4a34-8dad-dbec72ce4e42)
